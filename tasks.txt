@@ -1,0 +1,11 @@
+## To Do List ##
+
+Create repository for my_fire_data
+Test upload functionality
+
+Create code that:
+    Pulls initial data points
+    Appends my_fire_data with next x data points
+    Uploads new df as csv
+    Appends next data points after y amount of time
+    Uploads new df as csv
