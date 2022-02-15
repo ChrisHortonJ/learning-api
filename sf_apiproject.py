@@ -26,3 +26,5 @@ df = pd.DataFrame.from_records(results)
 #Saving the dataframe to CSV
 
 df.to_csv("my_fire_data.csv")
+
+client.close()
